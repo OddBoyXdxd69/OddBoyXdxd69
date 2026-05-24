@@ -1,16 +1,23 @@
+<!-- Gradient Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=OddBoyXD&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=16%20y/o%20Developer%20|%20Bot%20Builder%20|%20Creator&descAlignY=55&descSize=18)
+
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+OddBoyXD;16+y%2Fo+Developer+%7C+Bot+Builder+%7C+Creator)](https://github.com/OddBoyXdxd69)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I+build+Discord+Bots+%F0%9F%A4%96;I+love+Open+Source+%E2%9D%A4%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80)](https://github.com/OddBoyXdxd69)
 
-<!-- Profile Views Badge -->
+<br/>
+
+<!-- Animated Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=OddBoyXdxd69&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/OddBoyXdxd69?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github)](https://github.com/OddBoyXdxd69?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/OddBoyXdxd69?label=STARS&style=for-the-badge&color=gold&logo=github)](https://github.com/OddBoyXdxd69)
+[![GitHub Stars](https://img.shields.io/github/stars/OddBoyXdxd69?label=TOTAL+STARS&style=for-the-badge&color=gold&logo=github)](https://github.com/OddBoyXdxd69)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -19,10 +26,12 @@ Name:      OddBoyXD
 Age:       16
 Location:  India 🇮🇳
 Role:      Full-Stack Developer & Bot Builder
-Currently: Building Discord bots & web automation tools
-Learning:  AI-powered tooling & micro-service architectures
+Currently: Building Discord bots & web tools
+Learning:  AI tooling & cloud architectures
 Fun Fact:  I code more than I sleep 😄
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -31,20 +40,10 @@ Fun Fact:  I code more than I sleep 😄
 <div align="center">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,py,go,html,css&theme=dark" alt="Languages"/></a>
 
 ### 🛠️ Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,discord,docker,git,linux,vscode,mongodb,github&theme=dark" alt="Tools"/></a>
 
 </div>
 
@@ -52,10 +51,30 @@ Fun Fact:  I code more than I sleep 😄
 
 ## 🚀 What I Do
 
-- 🤖 **Discord Bots** — Building feature‑rich bots with moderation, tickets, games & more
-- 🌐 **Web Automation** — Scraping, APIs, and cloud‑hosted services
-- 🛡️ **Server Security** — Anti‑raid, anti‑nuke, and lockdown systems
-- ⚙️ **DevOps** — Docker, Linux servers, CI/CD pipelines
+<div align="center">
+
+| 🤖 **Discord Bots** | 🌐 **Web Automation** | 🛡️ **Server Security** | ⚙️ **DevOps** |
+|:---:|:---:|:---:|:---:|
+| Moderation, tickets, games & more | Scraping, APIs, cloud services | Anti‑raid, anti‑nuke, lockdown | Docker, Linux, CI/CD |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<!-- Activity Graph -->
+[![OddBoyXD's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OddBoyXdxd69&theme=react-dark&hide_border=true&area=true&custom_title=OddBoyXD's%20Contribution%20Graph)](https://github.com/OddBoyXdxd69)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=OddBoyXdxd69&theme=radical&hide_border=true)](https://github.com/OddBoyXdxd69)
+
+<!-- Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=OddBoyXdxd69&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/OddBoyXdxd69)
+
+</div>
 
 ---
 
@@ -70,20 +89,13 @@ Fun Fact:  I code more than I sleep 😄
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/OddBoyXdxd69/OddBoyXdxd69/output/github-snake-dark.svg)
+### 💜 Thanks for stopping by!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with people</b> — feel free to say hi! 😊
 
 </div>
 
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer)
-
-</div>
+<!-- Gradient Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer)
